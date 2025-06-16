@@ -8,7 +8,7 @@ import requests
 # Configurações
 MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
-MQTT_TOPIC = "alarme/casa"
+MQTT_TOPIC = "alarme/alerta"
 GITHUB_REPO = "titoufu/alarme-Malob"
 JSON_PATH = "docs/dados.json"
 GITHUB_TOKEN = os.environ.get("GH_TOKEN")
