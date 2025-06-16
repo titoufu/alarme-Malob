@@ -15,10 +15,8 @@ JSON_PATH = "docs/dados.json"
 
 # Variáveis de ambiente
 GITHUB_TOKEN = os.environ.get("GH_TOKEN")
-MQTT_USER = "TitoUFU"
-MQTT_PASS = "Tito1k58!"
-#MQTT_USER = os.environ.get("MQTT_USER")
-#MQTT_PASS = os.environ.get("MQTT_PASS")
+MQTT_USER = os.environ.get("MQTT_USER")
+MQTT_PASS = os.environ.get("MQTT_PASS")
 
 dados = []
 
@@ -93,7 +91,7 @@ def main():
 
     client = mqtt.Client()
     if MQTT_USER and MQTT_PASS:
-        client.username_pw_set(MQTT_USER, MQTT_PASS)
+        client.username_pw_set("TitoUFU", "Tito1k58!")
     client.tls_set()
 
 
