@@ -7,14 +7,16 @@ import requests
 
 # ========== CONFIGURAÇÕES ==========
 MQTT_BROKER = "bdc89afc1d5c447e8cbd83f65005162d.s2.eu.hivemq.cloud"
-MQTT_PORT = 1883
+MQTT_PORT = 8883  # porta segura com TLS
 MQTT_TOPIC = "alarme/#"
+
 GITHUB_REPO = "titoufu/alarme-Malob"
 JSON_PATH = "docs/dados.json"
 
+# Variáveis de ambiente
 GITHUB_TOKEN = os.environ.get("GH_TOKEN")
-MQTT_USER = os.environ.get("MQTT_USER")  # opcional
-MQTT_PASS = os.environ.get("MQTT_PASS")  # opcional
+MQTT_USER = os.environ.get("MQTT_USER")
+MQTT_PASS = os.environ.get("MQTT_PASS")
 
 dados = []
 
@@ -44,7 +46,7 @@ def filtrar_ultimas_24h():
 # ========== ATUALIZAR JSON NO GITHUB ==========
 def atualizar_json_github():
     if not GITHUB_TOKEN:
-        print("❌ GH_TOKEN não definido no ambiente. Abortando upload.")
+        print("❌ GH_TOKEN não definido. Abortando upload.")
         return
 
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{JSON_PATH}"
@@ -58,7 +60,7 @@ def atualizar_json_github():
     if r_get.status_code == 200:
         sha = r_get.json().get("sha")
     elif r_get.status_code != 404:
-        print(f"❌ Erro ao tentar obter SHA do arquivo existente:")
+        print(f"❌ Erro ao obter SHA do arquivo existente:")
         print(f"Status: {r_get.status_code}")
         print(f"Resposta: {r_get.text}")
         return
@@ -84,12 +86,13 @@ def atualizar_json_github():
 # ========== FUNÇÃO PRINCIPAL ==========
 def main():
     if not GITHUB_TOKEN:
-        print("❌ ERRO: GH_TOKEN não definido no ambiente do RailWay.")
+        print("❌ GH_TOKEN não definido.")
         return
 
     client = mqtt.Client()
     if MQTT_USER and MQTT_PASS:
         client.username_pw_set(MQTT_USER, MQTT_PASS)
+    client.tls_set()  # Ativa conexão segura TLS
 
     client.on_connect = on_connect
     client.on_message = on_message
