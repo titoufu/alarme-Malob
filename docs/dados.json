@@ -1,257 +1,112 @@
 [
   {
-    "timestamp": "2025-06-16T18:53:55.392361+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 1"
-  },
-  {
-    "timestamp": "2025-06-16T18:54:05.394176+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 2"
-  },
-  {
-    "timestamp": "2025-06-16T18:54:15.647490+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 3"
-  },
-  {
-    "timestamp": "2025-06-16T18:54:25.641999+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 4"
-  },
-  {
-    "timestamp": "2025-06-16T18:54:35.392570+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 5"
-  },
-  {
-    "timestamp": "2025-06-16T18:54:45.396369+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 6"
-  },
-  {
-    "timestamp": "2025-06-16T18:54:56.305589+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 7"
-  },
-  {
-    "timestamp": "2025-06-16T18:55:06.234877+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 8"
-  },
-  {
-    "timestamp": "2025-06-16T18:55:14.914123+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 9"
-  },
-  {
-    "timestamp": "2025-06-16T18:55:25.944853+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 10"
-  },
-  {
-    "timestamp": "2025-06-16T18:55:35.946466+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 11"
-  },
-  {
-    "timestamp": "2025-06-16T18:55:45.698059+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 12"
-  },
-  {
-    "timestamp": "2025-06-16T18:55:55.696723+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 13"
-  },
-  {
-    "timestamp": "2025-06-16T18:56:05.945639+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 14"
-  },
-  {
-    "timestamp": "2025-06-16T18:56:15.947411+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 15"
-  },
-  {
-    "timestamp": "2025-06-16T18:56:25.892492+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 16"
-  },
-  {
-    "timestamp": "2025-06-16T18:56:35.695959+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 17"
-  },
-  {
-    "timestamp": "2025-06-16T18:56:44.915106+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 18"
-  },
-  {
-    "timestamp": "2025-06-16T18:56:55.948785+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 19"
-  },
-  {
-    "timestamp": "2025-06-16T18:57:05.948163+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 20"
-  },
-  {
-    "timestamp": "2025-06-16T18:57:15.696973+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 21"
-  },
-  {
-    "timestamp": "2025-06-16T18:57:25.701054+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 22"
-  },
-  {
-    "timestamp": "2025-06-16T18:57:35.947665+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 23"
-  },
-  {
-    "timestamp": "2025-06-16T18:57:45.947264+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 24"
-  },
-  {
-    "timestamp": "2025-06-16T18:57:55.894042+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 25"
-  },
-  {
-    "timestamp": "2025-06-16T18:58:05.702237+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 26"
-  },
-  {
-    "timestamp": "2025-06-16T18:58:14.917009+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 27"
-  },
-  {
-    "timestamp": "2025-06-16T18:58:25.951182+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 28"
-  },
-  {
-    "timestamp": "2025-06-16T18:58:35.950666+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 29"
-  },
-  {
-    "timestamp": "2025-06-16T18:58:45.698734+00:00",
-    "topico": "alarme/alerta",
-    "valor": "\ud83d\udd01 Teste 30"
-  },
-  {
-    "timestamp": "2025-06-16T18:58:55.948594+00:00",
+    "timestamp": "2025-06-16T18:58:55.954131+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 31"
   },
   {
-    "timestamp": "2025-06-16T18:59:05.705932+00:00",
+    "timestamp": "2025-06-16T18:59:05.710777+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 32"
   },
   {
-    "timestamp": "2025-06-16T18:59:15.699564+00:00",
+    "timestamp": "2025-06-16T18:59:15.705209+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 33"
   },
   {
-    "timestamp": "2025-06-16T18:59:26.159066+00:00",
+    "timestamp": "2025-06-16T18:59:26.162312+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 34"
   },
   {
-    "timestamp": "2025-06-16T18:59:35.953340+00:00",
+    "timestamp": "2025-06-16T18:59:35.956011+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 35"
   },
   {
-    "timestamp": "2025-06-16T18:59:47.667286+00:00",
+    "timestamp": "2025-06-16T18:59:47.674576+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 36"
   },
   {
-    "timestamp": "2025-06-16T18:59:55.700018+00:00",
+    "timestamp": "2025-06-16T18:59:55.704585+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 37"
   },
   {
-    "timestamp": "2025-06-16T19:00:05.968121+00:00",
+    "timestamp": "2025-06-16T19:00:05.970529+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 38"
   },
   {
-    "timestamp": "2025-06-16T19:00:16.475977+00:00",
+    "timestamp": "2025-06-16T19:00:16.481109+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 39"
   },
   {
-    "timestamp": "2025-06-16T19:00:25.702019+00:00",
+    "timestamp": "2025-06-16T19:00:25.706948+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 40"
   },
   {
-    "timestamp": "2025-06-16T19:00:35.955529+00:00",
+    "timestamp": "2025-06-16T19:00:35.956834+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 41"
   },
   {
-    "timestamp": "2025-06-16T19:00:45.701684+00:00",
+    "timestamp": "2025-06-16T19:00:45.707177+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 42"
   },
   {
-    "timestamp": "2025-06-16T19:00:55.952477+00:00",
+    "timestamp": "2025-06-16T19:00:55.960881+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 43"
   },
   {
-    "timestamp": "2025-06-16T19:01:05.952512+00:00",
+    "timestamp": "2025-06-16T19:01:05.957199+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 44"
   },
   {
-    "timestamp": "2025-06-16T19:01:15.707312+00:00",
+    "timestamp": "2025-06-16T19:01:15.712344+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 45"
   },
   {
-    "timestamp": "2025-06-16T19:01:25.702993+00:00",
+    "timestamp": "2025-06-16T19:01:25.707736+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 46"
   },
   {
-    "timestamp": "2025-06-16T19:01:35.946464+00:00",
+    "timestamp": "2025-06-16T19:01:35.951409+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 47"
   },
   {
-    "timestamp": "2025-06-16T19:01:45.955640+00:00",
+    "timestamp": "2025-06-16T19:01:45.958008+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 48"
   },
   {
-    "timestamp": "2025-06-16T19:01:55.702343+00:00",
+    "timestamp": "2025-06-16T19:01:55.707571+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 49"
   },
   {
-    "timestamp": "2025-06-16T19:02:05.953282+00:00",
+    "timestamp": "2025-06-16T19:02:05.962424+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 50"
   },
   {
-    "timestamp": "2025-06-16T19:02:15.957494+00:00",
+    "timestamp": "2025-06-16T19:02:15.962323+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 51"
+  },
+  {
+    "timestamp": "2025-06-16T19:02:25.709747+00:00",
+    "topico": "alarme/alerta",
+    "valor": "\ud83d\udd01 Teste 52"
   }
 ]
