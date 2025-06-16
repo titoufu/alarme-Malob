@@ -6,12 +6,15 @@ import paho.mqtt.client as mqtt
 import requests
 
 # ========== CONFIGURAÇÕES ==========
-MQTT_BROKER = "broker.hivemq.com"
+MQTT_BROKER = "bdc89afc1d5c447e8cbd83f65005162d.s2.eu.hivemq.cloud"
 MQTT_PORT = 1883
 MQTT_TOPIC = "alarme/#"
 GITHUB_REPO = "titoufu/alarme-Malob"
 JSON_PATH = "docs/dados.json"
+
 GITHUB_TOKEN = os.environ.get("GH_TOKEN")
+MQTT_USER = os.environ.get("MQTT_USER")  # opcional
+MQTT_PASS = os.environ.get("MQTT_PASS")  # opcional
 
 dados = []
 
@@ -50,7 +53,6 @@ def atualizar_json_github():
         "Accept": "application/vnd.github+json"
     }
 
-    # Tentar obter o SHA atual do arquivo (se já existir)
     r_get = requests.get(url, headers=headers)
     sha = None
     if r_get.status_code == 200:
@@ -61,7 +63,6 @@ def atualizar_json_github():
         print(f"Resposta: {r_get.text}")
         return
 
-    # Gerar novo conteúdo
     dados_filtrados = filtrar_ultimas_24h()
     conteudo_json = json.dumps(dados_filtrados, indent=2)
     conteudo_b64 = base64.b64encode(conteudo_json.encode()).decode()
@@ -86,7 +87,10 @@ def main():
         print("❌ ERRO: GH_TOKEN não definido no ambiente do RailWay.")
         return
 
-    client = mqtt.Client()  # ⚠️ usa API v1 (ainda funcional); para v5, veja docs do paho
+    client = mqtt.Client()
+    if MQTT_USER and MQTT_PASS:
+        client.username_pw_set(MQTT_USER, MQTT_PASS)
+
     client.on_connect = on_connect
     client.on_message = on_message
 
