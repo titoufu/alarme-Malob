@@ -1,14 +1,14 @@
 import os
 import json
 import base64
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 import paho.mqtt.client as mqtt
 import requests
 
 # ========== CONFIGURAÇÕES ==========
 MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
-MQTT_TOPIC = "alarme/#"  # agora ouve tudo que começa com alarme/
+MQTT_TOPIC = "alarme/#"
 GITHUB_REPO = "titoufu/alarme-Malob"
 JSON_PATH = "docs/dados.json"
 GITHUB_TOKEN = os.environ.get("GH_TOKEN")
@@ -25,7 +25,7 @@ def on_connect(client, userdata, flags, rc):
 def on_message(client, userdata, msg):
     payload = msg.payload.decode()
     evento = {
-        "timestamp": datetime.utcnow().isoformat(),
+        "timestamp": datetime.now(UTC).isoformat(),
         "topico": msg.topic,
         "valor": payload
     }
@@ -35,7 +35,7 @@ def on_message(client, userdata, msg):
 
 # ========== FILTRAR ÚLTIMAS 24 HORAS ==========
 def filtrar_ultimas_24h():
-    limite = datetime.utcnow() - timedelta(hours=24)
+    limite = datetime.now(UTC) - timedelta(hours=24)
     return [e for e in dados if datetime.fromisoformat(e["timestamp"]) > limite]
 
 # ========== ATUALIZAR JSON NO GITHUB ==========
@@ -86,7 +86,7 @@ def main():
         print("❌ ERRO: GH_TOKEN não definido no ambiente do RailWay.")
         return
 
-    client = mqtt.Client()
+    client = mqtt.Client()  # ⚠️ usa API v1 (ainda funcional); para v5, veja docs do paho
     client.on_connect = on_connect
     client.on_message = on_message
 
