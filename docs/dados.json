@@ -128,5 +128,10 @@
     "timestamp": "2025-06-16T18:58:05.702237+00:00",
     "topico": "alarme/alerta",
     "valor": "\ud83d\udd01 Teste 26"
+  },
+  {
+    "timestamp": "2025-06-16T18:58:14.917009+00:00",
+    "topico": "alarme/alerta",
+    "valor": "\ud83d\udd01 Teste 27"
   }
 ]
