@@ -1,24 +1,27 @@
 import os
-import time
 import json
 import base64
 from datetime import datetime, timedelta
 import paho.mqtt.client as mqtt
 import requests
 
+# Configurações
 MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
-MQTT_TOPIC = "alarme/casa"  # coloque seu tópico aqui
+MQTT_TOPIC = "alarme/casa"
 GITHUB_REPO = "titoufu/alarme-Malob"
 JSON_PATH = "docs/dados.json"
 GITHUB_TOKEN = os.environ.get("GH_TOKEN")
 
+# Lista para armazenar dados recebidos
 dados = []
 
+# Função chamada ao conectar ao MQTT
 def on_connect(client, userdata, flags, rc):
-    print(f"Conectado MQTT com código {rc}")
+    print(f"✅ Conectado ao MQTT com código {rc}")
     client.subscribe(MQTT_TOPIC)
 
+# Função chamada ao receber mensagem
 def on_message(client, userdata, msg):
     payload = msg.payload.decode()
     evento = {
@@ -26,13 +29,16 @@ def on_message(client, userdata, msg):
         "topico": msg.topic,
         "valor": payload
     }
-    print(f"Recebido: {evento}")
+    print(f"📥 Recebido: {evento}")
     dados.append(evento)
+    atualizar_json_github()
 
+# Filtra os eventos das últimas 24h
 def filtrar_ultimas_24h():
     limite = datetime.utcnow() - timedelta(hours=24)
     return [e for e in dados if datetime.fromisoformat(e["timestamp"]) > limite]
 
+# Atualiza o arquivo JSON no GitHub
 def atualizar_json_github():
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{JSON_PATH}"
     headers = {
@@ -57,13 +63,14 @@ def atualizar_json_github():
 
     r = requests.put(url, headers=headers, json=payload)
     if r.status_code in [200, 201]:
-        print("Arquivo dados.json atualizado no GitHub com sucesso!")
+        print("✅ dados.json atualizado no GitHub com sucesso!")
     else:
-        print(f"Erro ao atualizar arquivo: {r.status_code} {r.text}")
+        print(f"❌ Erro ao atualizar: {r.status_code} {r.text}")
 
+# Função principal
 def main():
     if not GITHUB_TOKEN:
-        print("ERRO: variável GH_TOKEN não definida")
+        print("❌ ERRO: variável GH_TOKEN não definida")
         return
 
     client = mqtt.Client()
@@ -71,17 +78,14 @@ def main():
     client.on_message = on_message
 
     client.connect(MQTT_BROKER, MQTT_PORT, 60)
-    client.loop_start()
-
+    
     try:
-        while True:
-            time.sleep(300)  # Atualiza a cada 5 minutos
-            atualizar_json_github()
+        client.loop_forever()
     except KeyboardInterrupt:
-        print("Encerrando...")
-    finally:
-        client.loop_stop()
+        print("🛑 Encerrando...")
         client.disconnect()
 
+# Execução principal
 if __name__ == "__main__":
     main()
+
