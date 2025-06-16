@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dados do Alarme</title>
+  <style>
+    body { font-family: sans-serif; margin: 2em; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { padding: 0.5em; border: 1px solid #ccc; text-align: left; }
+  </style>
+</head>
+<body>
+  <h1>Últimos dados do alarme (24h)</h1>
+  <table>
+    <thead>
+      <tr><th>Timestamp</th><th>Tópico</th><th>Valor</th></tr>
+    </thead>
+    <tbody id="tabela-dados"></tbody>
+  </table>
+
+  <script>
+    fetch('dados.json')
+      .then(response => response.json())
+      .then(dados => {
+        const tbody = document.getElementById("tabela-dados");
+        dados.forEach(d => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td>${d.timestamp}</td><td>${d.topico}</td><td>${d.valor}</td>`;
+          tbody.appendChild(tr);
+        });
+      });
+  </script>
+</body>
+</html>
