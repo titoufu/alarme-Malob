@@ -91,7 +91,7 @@ def main():
 
     client = mqtt.Client()
     if MQTT_USER and MQTT_PASS:
-        client.username_pw_set("TitoUFU", "Tito1k58!")
+        client.username_pw_set(MQTT_USER,MQTT_PASS)
     client.tls_set()
 
 
