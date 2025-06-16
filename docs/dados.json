@@ -33,5 +33,10 @@
     "timestamp": "2025-06-16T22:01:53.602575+00:00",
     "topico": "alarme/estado",
     "valor": "DESARMADO"
+  },
+  {
+    "timestamp": "2025-06-16T22:02:31.762055+00:00",
+    "topico": "alarme/estado",
+    "valor": "ARMADO"
   }
 ]
