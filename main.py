@@ -89,10 +89,11 @@ def main():
         print("❌ GH_TOKEN não definido.")
         return
 
-    client = mqtt.Client()
+    client = mqtt.Client(callback_api_version=5)
     if MQTT_USER and MQTT_PASS:
         client.username_pw_set(MQTT_USER, MQTT_PASS)
-    client.tls_set()  # Ativa conexão segura TLS
+    client.tls_set()
+
 
     client.on_connect = on_connect
     client.on_message = on_message
