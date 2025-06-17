@@ -1,331 +1,336 @@
 [
   {
-    "timestamp": "2025-06-17T14:03:23.787745+00:00",
+    "timestamp": "2025-06-17T14:03:23.789949+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udd12 Alarme ativado."
   },
   {
-    "timestamp": "2025-06-17T14:03:31.658280+00:00",
+    "timestamp": "2025-06-17T14:03:31.660723+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:32.279184+00:00",
+    "timestamp": "2025-06-17T14:03:32.314652+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:32.794138+00:00",
+    "timestamp": "2025-06-17T14:03:32.817206+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:33.279413+00:00",
+    "timestamp": "2025-06-17T14:03:33.289654+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:33.844433+00:00",
+    "timestamp": "2025-06-17T14:03:33.789466+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:34.324619+00:00",
+    "timestamp": "2025-06-17T14:03:34.306686+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:34.863174+00:00",
+    "timestamp": "2025-06-17T14:03:34.787659+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:35.429167+00:00",
+    "timestamp": "2025-06-17T14:03:35.471593+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:35.933501+00:00",
+    "timestamp": "2025-06-17T14:03:35.927016+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:36.454426+00:00",
+    "timestamp": "2025-06-17T14:03:36.496929+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:36.989715+00:00",
+    "timestamp": "2025-06-17T14:03:37.027294+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:37.527386+00:00",
+    "timestamp": "2025-06-17T14:03:37.518930+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:38.059511+00:00",
+    "timestamp": "2025-06-17T14:03:38.072595+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:38.581536+00:00",
+    "timestamp": "2025-06-17T14:03:38.589490+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:39.154027+00:00",
+    "timestamp": "2025-06-17T14:03:39.133407+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:39.643076+00:00",
+    "timestamp": "2025-06-17T14:03:39.562178+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:40.192890+00:00",
+    "timestamp": "2025-06-17T14:03:40.067345+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:40.648866+00:00",
+    "timestamp": "2025-06-17T14:03:40.628819+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:41.114843+00:00",
+    "timestamp": "2025-06-17T14:03:41.111047+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:41.650002+00:00",
+    "timestamp": "2025-06-17T14:03:41.626338+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:42.173027+00:00",
+    "timestamp": "2025-06-17T14:03:42.124452+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:42.834365+00:00",
+    "timestamp": "2025-06-17T14:03:42.621519+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:43.261703+00:00",
+    "timestamp": "2025-06-17T14:03:43.154978+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:43.768669+00:00",
+    "timestamp": "2025-06-17T14:03:43.776003+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:44.224346+00:00",
+    "timestamp": "2025-06-17T14:03:44.241571+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:44.750869+00:00",
+    "timestamp": "2025-06-17T14:03:44.718798+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:45.334186+00:00",
+    "timestamp": "2025-06-17T14:03:45.279411+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:45.862903+00:00",
+    "timestamp": "2025-06-17T14:03:45.804580+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:46.356015+00:00",
+    "timestamp": "2025-06-17T14:03:46.314910+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:46.810759+00:00",
+    "timestamp": "2025-06-17T14:03:46.844946+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:47.269145+00:00",
+    "timestamp": "2025-06-17T14:03:47.342788+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:47.781222+00:00",
+    "timestamp": "2025-06-17T14:03:47.776341+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:48.322610+00:00",
+    "timestamp": "2025-06-17T14:03:48.329338+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:48.830185+00:00",
+    "timestamp": "2025-06-17T14:03:48.821500+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:49.364817+00:00",
+    "timestamp": "2025-06-17T14:03:49.336255+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:49.774010+00:00",
+    "timestamp": "2025-06-17T14:03:49.794858+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:50.284634+00:00",
+    "timestamp": "2025-06-17T14:03:50.269920+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:50.834970+00:00",
+    "timestamp": "2025-06-17T14:03:50.831041+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:51.364662+00:00",
+    "timestamp": "2025-06-17T14:03:51.334148+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:51.970537+00:00",
+    "timestamp": "2025-06-17T14:03:51.889519+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:52.495067+00:00",
+    "timestamp": "2025-06-17T14:03:52.397400+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:52.967710+00:00",
+    "timestamp": "2025-06-17T14:03:52.995697+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:53.532604+00:00",
+    "timestamp": "2025-06-17T14:03:53.518363+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:54.069233+00:00",
+    "timestamp": "2025-06-17T14:03:54.002661+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:54.581859+00:00",
+    "timestamp": "2025-06-17T14:03:54.648968+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:55.109240+00:00",
+    "timestamp": "2025-06-17T14:03:55.149592+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:55.619664+00:00",
+    "timestamp": "2025-06-17T14:03:55.641338+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:56.121835+00:00",
+    "timestamp": "2025-06-17T14:03:56.140335+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:56.640197+00:00",
+    "timestamp": "2025-06-17T14:03:56.665706+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:57.171226+00:00",
+    "timestamp": "2025-06-17T14:03:57.164542+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:57.712945+00:00",
+    "timestamp": "2025-06-17T14:03:57.719554+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:58.222074+00:00",
+    "timestamp": "2025-06-17T14:03:58.220487+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:58.775080+00:00",
+    "timestamp": "2025-06-17T14:03:58.784435+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:59.262690+00:00",
+    "timestamp": "2025-06-17T14:03:59.304298+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:03:59.850427+00:00",
+    "timestamp": "2025-06-17T14:03:59.912768+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:00.382544+00:00",
+    "timestamp": "2025-06-17T14:04:00.400066+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:00.888676+00:00",
+    "timestamp": "2025-06-17T14:04:00.930824+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:01.521449+00:00",
+    "timestamp": "2025-06-17T14:04:01.460833+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:02.031477+00:00",
+    "timestamp": "2025-06-17T14:04:01.989303+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:02.600754+00:00",
+    "timestamp": "2025-06-17T14:04:02.519541+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:03.114912+00:00",
+    "timestamp": "2025-06-17T14:04:03.091999+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:03.671635+00:00",
+    "timestamp": "2025-06-17T14:04:03.644133+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:04.158251+00:00",
+    "timestamp": "2025-06-17T14:04:04.158511+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:04.686654+00:00",
+    "timestamp": "2025-06-17T14:04:04.645357+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   },
   {
-    "timestamp": "2025-06-17T14:04:05.165264+00:00",
+    "timestamp": "2025-06-17T14:04:05.200781+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
+  },
+  {
+    "timestamp": "2025-06-17T14:04:05.648606+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta BAZAR foi aberta."
   }
