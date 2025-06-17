@@ -1,647 +1,102 @@
 [
   {
-    "timestamp": "2025-06-17T13:23:36.137539+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:36.705711+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:37.239448+00:00",
+    "timestamp": "2025-06-17T13:24:35.368889+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:37.730552+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:38.220483+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:38.724891+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:39.244399+00:00",
+    "timestamp": "2025-06-17T13:24:35.863513+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:39.775273+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:40.267804+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:40.817259+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:41.272059+00:00",
+    "timestamp": "2025-06-17T13:24:36.353415+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:41.794868+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:42.322178+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:42.876893+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:43.422243+00:00",
+    "timestamp": "2025-06-17T13:24:36.830243+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:43.888440+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:44.384821+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:45.057726+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:45.599851+00:00",
+    "timestamp": "2025-06-17T13:24:37.335097+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:46.067758+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:46.594163+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:47.100422+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:47.709038+00:00",
+    "timestamp": "2025-06-17T13:24:37.790935+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:48.270067+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:48.703032+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:49.181999+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:49.891117+00:00",
+    "timestamp": "2025-06-17T13:24:38.410359+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:50.409152+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:50.966861+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:51.458723+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:51.987240+00:00",
+    "timestamp": "2025-06-17T13:24:38.954260+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:52.534447+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:53.148720+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:53.728033+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:54.244758+00:00",
+    "timestamp": "2025-06-17T13:24:39.461470+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:54.712685+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:55.258799+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:55.785437+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:56.271501+00:00",
+    "timestamp": "2025-06-17T13:24:39.962163+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:56.916005+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:57.392489+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:57.889354+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:58.448718+00:00",
+    "timestamp": "2025-06-17T13:24:40.453748+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:23:58.957515+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:59.478083+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:23:59.995063+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:00.512607+00:00",
+    "timestamp": "2025-06-17T13:24:41.131236+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:01.075589+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:01.689583+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:02.256163+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:02.965465+00:00",
+    "timestamp": "2025-06-17T13:24:41.666296+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:03.456611+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:03.986747+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:04.469361+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:04.982395+00:00",
+    "timestamp": "2025-06-17T13:24:42.145939+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:05.566982+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:06.117755+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:06.750726+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:07.234175+00:00",
+    "timestamp": "2025-06-17T13:24:42.661637+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:07.839939+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:08.395887+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:08.921150+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:09.384121+00:00",
+    "timestamp": "2025-06-17T13:24:43.142961+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:09.967349+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:10.424627+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:10.947916+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:11.517346+00:00",
+    "timestamp": "2025-06-17T13:24:43.648833+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:12.041941+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:12.701802+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:13.223724+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:13.776160+00:00",
+    "timestamp": "2025-06-17T13:24:44.232520+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:14.290722+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:14.797899+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:15.297914+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:15.797104+00:00",
+    "timestamp": "2025-06-17T13:24:44.706685+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:24:16.362713+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:16.931139+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:17.450174+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:18.010874+00:00",
+    "timestamp": "2025-06-17T13:24:45.223460+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:18.578747+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:19.028312+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:19.537694+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:20.052737+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:20.575378+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:21.081001+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:21.679707+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:22.191099+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:22.764897+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:23.301110+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:23.795524+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:24.294188+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:24.884887+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:25.420101+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:25.970772+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:26.486243+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:27.064701+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:27.657991+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:28.211089+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:28.795945+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:29.326272+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:29.833226+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:30.341295+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:30.945948+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:31.557507+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:32.084284+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:32.589687+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:33.140281+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:33.637655+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:34.153911+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:34.721157+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:35.243985+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:35.805715+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:36.320768+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:36.826620+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:37.307322+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:37.861944+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:38.532656+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:38.986615+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:39.533162+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:40.052969+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:40.509319+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:41.083088+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:41.633585+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:42.211777+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:42.635100+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:43.276555+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:43.647836+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:44.229048+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:24:44.731457+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   }
 ]
