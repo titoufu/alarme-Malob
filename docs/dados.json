@@ -898,5 +898,10 @@
     "timestamp": "2025-06-17T13:25:11.966031+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
+  },
+  {
+    "timestamp": "2025-06-17T13:25:12.485854+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   }
 ]
