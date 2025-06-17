@@ -8,5 +8,10 @@
     "timestamp": "2025-06-17T13:21:30.892711+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+  },
+  {
+    "timestamp": "2025-06-17T13:21:31.339712+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   }
 ]
