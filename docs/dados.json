@@ -1,7 +1,22 @@
 [
   {
-    "timestamp": "2025-06-17T12:58:42.282788+00:00",
+    "timestamp": "2025-06-17T12:57:32.252208+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udd12 Alarme ativado."
+  },
+  {
+    "timestamp": "2025-06-17T12:57:32.755808+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+  },
+  {
+    "timestamp": "2025-06-17T12:58:42.276402+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udd12 Alarme ativado."
+  },
+  {
+    "timestamp": "2025-06-17T12:58:42.758753+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   }
 ]
