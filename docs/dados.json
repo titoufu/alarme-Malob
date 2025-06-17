@@ -473,5 +473,10 @@
     "timestamp": "2025-06-17T14:04:20.678825+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
+  },
+  {
+    "timestamp": "2025-06-17T14:04:21.228451+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Porta RECICLO foi aberta."
   }
 ]
