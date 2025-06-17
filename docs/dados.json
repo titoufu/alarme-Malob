@@ -723,5 +723,10 @@
     "timestamp": "2025-06-17T13:21:40.711762+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+  },
+  {
+    "timestamp": "2025-06-17T13:21:41.164392+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   }
 ]
