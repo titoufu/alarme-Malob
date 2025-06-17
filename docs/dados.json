@@ -1,796 +1,111 @@
 [
   {
-    "timestamp": "2025-06-17T13:18:29.487698+00:00",
+    "timestamp": "2025-06-17T13:19:45.181046+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:18:29.971352+00:00",
+    "timestamp": "2025-06-17T13:19:45.716055+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:18:30.552397+00:00",
+    "timestamp": "2025-06-17T13:19:46.291315+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:18:31.069448+00:00",
+    "timestamp": "2025-06-17T13:19:46.777389+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:18:31.550662+00:00",
+    "timestamp": "2025-06-17T13:19:47.299198+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:32.094122+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:32.574906+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:33.205878+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:33.729017+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:34.248472+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:34.799699+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:35.518278+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:36.060137+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:36.631949+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:37.099770+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:37.620827+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:38.212634+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:38.801244+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:39.358193+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:39.833277+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:40.446930+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:40.948257+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:41.460994+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:41.956477+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:42.514005+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:43.149682+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:43.606213+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:44.161187+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:44.714111+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:45.215260+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:45.725347+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:46.331905+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:46.817399+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:47.373272+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:47.857944+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:48.437650+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:48.976539+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:49.471077+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:49.993047+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:50.412395+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:50.920178+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:51.622775+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:52.086723+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:52.601017+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:53.102292+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:53.895930+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:54.303695+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:54.880377+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:55.479322+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:55.952810+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:56.538802+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:56.967100+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:57.415732+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:57.923154+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:58.465434+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:58.920719+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:59.445722+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:18:59.964518+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:00.483611+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:01.131116+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:01.686066+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:02.212065+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:02.678101+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:03.230354+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:03.761027+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:04.398327+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:04.991475+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:05.635414+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:06.078332+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:06.644872+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:07.112271+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:07.660688+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:08.262241+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:08.762306+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:09.280616+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:09.928736+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:10.578181+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:11.108282+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:11.596883+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:12.190789+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:12.626614+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:13.192598+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:13.710624+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:14.260923+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:14.759889+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:15.368619+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:15.886414+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:16.472265+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:17.020854+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:17.604671+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:18.056081+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:18.625341+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:19.177513+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:19.797946+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:20.375634+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:21.072475+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:21.637507+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:22.244800+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:22.991627+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:23.693025+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:24.171997+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:24.821207+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:25.518785+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:26.174786+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:26.700141+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:27.330370+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:27.896088+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:28.479791+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:29.142697+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:29.773670+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:30.341107+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:30.902270+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:31.468492+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:31.968297+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:32.477889+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:33.106931+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:33.588684+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:34.123163+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:35.035368+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:35.283900+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:35.770829+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:36.282546+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:36.843615+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:37.279806+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:37.751994+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:38.355646+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:38.937458+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:39.392136+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:39.909517+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:40.478656+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:40.994825+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:41.494819+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:42.025485+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:42.578799+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:43.057822+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:43.624198+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:44.194638+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:44.693032+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:45.230578+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:45.765147+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:46.289263+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
-  },
-  {
-    "timestamp": "2025-06-17T13:19:46.777109+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:47.319861+00:00",
+    "timestamp": "2025-06-17T13:19:47.806468+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:47.940263+00:00",
+    "timestamp": "2025-06-17T13:19:48.304520+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:48.490249+00:00",
+    "timestamp": "2025-06-17T13:19:48.842387+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:19:48.975300+00:00",
+    "timestamp": "2025-06-17T13:19:49.423822+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:49.486207+00:00",
+    "timestamp": "2025-06-17T13:19:49.998239+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:49.948664+00:00",
+    "timestamp": "2025-06-17T13:19:50.509843+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:50.490781+00:00",
+    "timestamp": "2025-06-17T13:19:51.003808+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:19:50.975179+00:00",
+    "timestamp": "2025-06-17T13:19:51.537195+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:51.581381+00:00",
+    "timestamp": "2025-06-17T13:19:52.077783+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:52.137311+00:00",
+    "timestamp": "2025-06-17T13:19:52.573106+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:52.588296+00:00",
+    "timestamp": "2025-06-17T13:19:53.050936+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:19:53.093509+00:00",
+    "timestamp": "2025-06-17T13:19:53.577460+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:53.583620+00:00",
+    "timestamp": "2025-06-17T13:19:54.036997+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:54.052266+00:00",
+    "timestamp": "2025-06-17T13:19:54.566090+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:19:54.557932+00:00",
+    "timestamp": "2025-06-17T13:19:55.149018+00:00",
     "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-17T13:19:55.186960+00:00",
+    "timestamp": "2025-06-17T13:19:55.797901+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   },
   {
-    "timestamp": "2025-06-17T13:19:55.760044+00:00",
+    "timestamp": "2025-06-17T13:19:56.339065+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Porta HORTA foi aberta."
   }
