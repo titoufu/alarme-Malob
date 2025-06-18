@@ -468,5 +468,10 @@
     "timestamp": "2025-06-18T20:49:12.441768+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
+  },
+  {
+    "timestamp": "2025-06-18T20:49:12.924135+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   }
 ]
