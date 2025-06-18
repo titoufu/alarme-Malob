@@ -1,532 +1,497 @@
 [
   {
-    "timestamp": "2025-06-18T21:01:19.787005+00:00",
+    "timestamp": "2025-06-18T21:01:23.811985+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:20.153127+00:00",
+    "timestamp": "2025-06-18T21:01:24.400802+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:20.613094+00:00",
+    "timestamp": "2025-06-18T21:01:24.783896+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:21.052235+00:00",
+    "timestamp": "2025-06-18T21:01:25.173790+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:21.621283+00:00",
+    "timestamp": "2025-06-18T21:01:25.685980+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:22.177316+00:00",
+    "timestamp": "2025-06-18T21:01:26.106755+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:22.642692+00:00",
+    "timestamp": "2025-06-18T21:01:26.549043+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:23.183547+00:00",
+    "timestamp": "2025-06-18T21:01:27.074301+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:23.693472+00:00",
+    "timestamp": "2025-06-18T21:01:27.569650+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:24.204769+00:00",
+    "timestamp": "2025-06-18T21:01:28.037926+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:24.731568+00:00",
+    "timestamp": "2025-06-18T21:01:28.541239+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:25.220109+00:00",
+    "timestamp": "2025-06-18T21:01:29.066676+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:25.686555+00:00",
+    "timestamp": "2025-06-18T21:01:29.587973+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:26.141005+00:00",
+    "timestamp": "2025-06-18T21:01:30.050690+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:26.654737+00:00",
+    "timestamp": "2025-06-18T21:01:30.586944+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:27.104463+00:00",
+    "timestamp": "2025-06-18T21:01:31.117069+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:27.612992+00:00",
+    "timestamp": "2025-06-18T21:01:31.636558+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:28.032662+00:00",
+    "timestamp": "2025-06-18T21:01:32.197476+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:28.543459+00:00",
+    "timestamp": "2025-06-18T21:01:32.739307+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:29.042929+00:00",
+    "timestamp": "2025-06-18T21:01:33.233285+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:29.604876+00:00",
+    "timestamp": "2025-06-18T21:01:33.711604+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:30.063794+00:00",
+    "timestamp": "2025-06-18T21:01:34.119690+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:30.564745+00:00",
+    "timestamp": "2025-06-18T21:01:34.602560+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:31.058236+00:00",
+    "timestamp": "2025-06-18T21:01:35.035046+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:31.521922+00:00",
+    "timestamp": "2025-06-18T21:01:35.600180+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:32.049457+00:00",
+    "timestamp": "2025-06-18T21:01:36.224966+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:32.584666+00:00",
+    "timestamp": "2025-06-18T21:01:36.714785+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:33.117828+00:00",
+    "timestamp": "2025-06-18T21:01:37.155816+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:33.684190+00:00",
+    "timestamp": "2025-06-18T21:01:37.609166+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:34.121589+00:00",
+    "timestamp": "2025-06-18T21:01:38.077954+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:34.590616+00:00",
+    "timestamp": "2025-06-18T21:01:38.645258+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:35.029685+00:00",
+    "timestamp": "2025-06-18T21:01:39.202325+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:35.579564+00:00",
+    "timestamp": "2025-06-18T21:01:39.672111+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:36.173603+00:00",
+    "timestamp": "2025-06-18T21:01:40.197552+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:36.728255+00:00",
+    "timestamp": "2025-06-18T21:01:40.671128+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:37.156498+00:00",
+    "timestamp": "2025-06-18T21:01:41.182289+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:37.622604+00:00",
+    "timestamp": "2025-06-18T21:01:41.651294+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:38.097568+00:00",
+    "timestamp": "2025-06-18T21:01:42.154480+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:38.843903+00:00",
+    "timestamp": "2025-06-18T21:01:42.625112+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:39.293720+00:00",
+    "timestamp": "2025-06-18T21:01:43.168655+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:39.792241+00:00",
+    "timestamp": "2025-06-18T21:01:43.681363+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:40.264199+00:00",
+    "timestamp": "2025-06-18T21:01:44.186803+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:40.729111+00:00",
+    "timestamp": "2025-06-18T21:01:44.651988+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:41.172761+00:00",
+    "timestamp": "2025-06-18T21:01:45.113453+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:41.639541+00:00",
+    "timestamp": "2025-06-18T21:01:45.642211+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:42.166745+00:00",
+    "timestamp": "2025-06-18T21:01:46.129490+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:42.677515+00:00",
+    "timestamp": "2025-06-18T21:01:46.634794+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:43.190035+00:00",
+    "timestamp": "2025-06-18T21:01:47.096655+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:43.680132+00:00",
+    "timestamp": "2025-06-18T21:01:47.673626+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:44.206471+00:00",
+    "timestamp": "2025-06-18T21:01:48.196082+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:44.644638+00:00",
+    "timestamp": "2025-06-18T21:01:48.678077+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:45.119985+00:00",
+    "timestamp": "2025-06-18T21:01:49.205575+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:45.680579+00:00",
+    "timestamp": "2025-06-18T21:01:49.690014+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:46.173842+00:00",
+    "timestamp": "2025-06-18T21:01:50.278953+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:46.617515+00:00",
+    "timestamp": "2025-06-18T21:01:50.851086+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:47.102092+00:00",
+    "timestamp": "2025-06-18T21:01:51.297455+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:47.652679+00:00",
+    "timestamp": "2025-06-18T21:01:51.817203+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:48.182877+00:00",
+    "timestamp": "2025-06-18T21:01:52.387454+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:48.663051+00:00",
+    "timestamp": "2025-06-18T21:01:52.876447+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:49.193052+00:00",
+    "timestamp": "2025-06-18T21:01:53.386767+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:49.706714+00:00",
+    "timestamp": "2025-06-18T21:01:53.901858+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:50.252951+00:00",
+    "timestamp": "2025-06-18T21:01:54.394412+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:50.824501+00:00",
+    "timestamp": "2025-06-18T21:01:54.902664+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:51.295478+00:00",
+    "timestamp": "2025-06-18T21:01:55.427589+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:51.789705+00:00",
+    "timestamp": "2025-06-18T21:01:55.893528+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:52.390731+00:00",
+    "timestamp": "2025-06-18T21:01:56.445275+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:52.920263+00:00",
+    "timestamp": "2025-06-18T21:01:56.887478+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:53.417558+00:00",
+    "timestamp": "2025-06-18T21:01:57.415484+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:54.034436+00:00",
+    "timestamp": "2025-06-18T21:01:58.008648+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:54.504331+00:00",
+    "timestamp": "2025-06-18T21:01:58.505202+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:54.969055+00:00",
+    "timestamp": "2025-06-18T21:01:58.986908+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:55.425150+00:00",
+    "timestamp": "2025-06-18T21:01:59.488389+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:55.878134+00:00",
+    "timestamp": "2025-06-18T21:02:00.033606+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:56.356777+00:00",
+    "timestamp": "2025-06-18T21:02:00.552470+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:56.918381+00:00",
+    "timestamp": "2025-06-18T21:02:00.998075+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:57.428990+00:00",
+    "timestamp": "2025-06-18T21:02:01.582956+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:57.965337+00:00",
+    "timestamp": "2025-06-18T21:02:01.985789+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:58.475489+00:00",
+    "timestamp": "2025-06-18T21:02:02.480648+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:59.030458+00:00",
+    "timestamp": "2025-06-18T21:02:02.966631+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:59.569797+00:00",
+    "timestamp": "2025-06-18T21:02:03.455315+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:01:59.964772+00:00",
+    "timestamp": "2025-06-18T21:02:03.989325+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:00.428795+00:00",
+    "timestamp": "2025-06-18T21:02:04.482241+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:00.999290+00:00",
+    "timestamp": "2025-06-18T21:02:05.016981+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:01.516390+00:00",
+    "timestamp": "2025-06-18T21:02:05.469996+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:01.982699+00:00",
+    "timestamp": "2025-06-18T21:02:05.967504+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:02.444682+00:00",
+    "timestamp": "2025-06-18T21:02:06.477946+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:02.948230+00:00",
+    "timestamp": "2025-06-18T21:02:07.248488+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:03.502281+00:00",
+    "timestamp": "2025-06-18T21:02:07.756278+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:04.004723+00:00",
+    "timestamp": "2025-06-18T21:02:08.357068+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:04.471185+00:00",
+    "timestamp": "2025-06-18T21:02:08.888561+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:05.030751+00:00",
+    "timestamp": "2025-06-18T21:02:09.358251+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:05.479184+00:00",
+    "timestamp": "2025-06-18T21:02:09.850869+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:06.022263+00:00",
+    "timestamp": "2025-06-18T21:02:10.361592+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:06.608963+00:00",
+    "timestamp": "2025-06-18T21:02:10.888913+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:07.359195+00:00",
+    "timestamp": "2025-06-18T21:02:11.311027+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:07.848293+00:00",
+    "timestamp": "2025-06-18T21:02:11.827686+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:08.318556+00:00",
+    "timestamp": "2025-06-18T21:02:12.301443+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:08.836507+00:00",
+    "timestamp": "2025-06-18T21:02:12.757929+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T21:02:09.361597+00:00",
+    "timestamp": "2025-06-18T21:02:13.251935+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-18T21:02:09.883597+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-18T21:02:10.370584+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-18T21:02:10.892301+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-18T21:02:11.340269+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-18T21:02:11.817034+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-18T21:02:12.323742+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
-  },
-  {
-    "timestamp": "2025-06-18T21:02:12.758628+00:00",
-    "topico": "alarme/evento",
-    "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   }
 ]
