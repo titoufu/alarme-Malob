@@ -1,27 +1,32 @@
 [
   {
-    "timestamp": "2025-06-18T20:51:11.343397+00:00",
+    "timestamp": "2025-06-18T20:51:11.342447+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udd12 Alarme ativado."
   },
   {
-    "timestamp": "2025-06-18T20:51:11.838424+00:00",
+    "timestamp": "2025-06-18T20:51:11.836317+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T20:51:12.339198+00:00",
+    "timestamp": "2025-06-18T20:51:12.273730+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T20:51:12.865678+00:00",
+    "timestamp": "2025-06-18T20:51:12.813904+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor BAZAR detectou movimento."
   },
   {
-    "timestamp": "2025-06-18T20:51:13.323782+00:00",
+    "timestamp": "2025-06-18T20:51:13.352638+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
+  },
+  {
+    "timestamp": "2025-06-18T20:51:13.858707+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   }
 ]
