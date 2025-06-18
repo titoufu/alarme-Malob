@@ -23,5 +23,10 @@
     "timestamp": "2025-06-18T21:01:25.685980+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udea8 Alarme disparado! Sensor RECICLO detectou movimento."
+  },
+  {
+    "timestamp": "2025-06-18T21:01:26.106755+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Sensor TRIAGEM detectou movimento."
   }
 ]
