@@ -3,5 +3,10 @@
     "timestamp": "2025-07-05T15:01:21.955460+00:00",
     "topico": "alarme/evento",
     "valor": "\ud83d\udd12 Alarme ativado."
+  },
+  {
+    "timestamp": "2025-07-05T15:01:22.446177+00:00",
+    "topico": "alarme/evento",
+    "valor": "\ud83d\udea8 Alarme disparado! Porta TRIAGEM foi aberta."
   }
 ]
